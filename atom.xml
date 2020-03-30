@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cinta-echo.github.io/"/>
-  <updated>2020-03-29T02:26:04.643Z</updated>
+  <updated>2020-03-30T13:29:23.369Z</updated>
   <id>http://cinta-echo.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>目录及标签测试</title>
+    <link href="http://cinta-echo.github.io/2020/03/30/test/"/>
+    <id>http://cinta-echo.github.io/2020/03/30/test/</id>
+    <published>2020-03-30T13:21:23.208Z</published>
+    <updated>2020-03-30T13:29:23.369Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;说明：&lt;/strong&gt;这是一个目录及标签的测试&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+      <category term="编程" scheme="http://cinta-echo.github.io/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Cinta 的个人专栏</title>
