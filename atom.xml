@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cinta的个人专栏</title>
+  <icon>https://www.gravatar.com/avatar/febcd2ca7129cc2780b2da3955f988bf</icon>
+  <subtitle>面朝大海，春暖花开</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://cinta-echo.github.io/"/>
+  <updated>2020-03-29T02:26:04.643Z</updated>
+  <id>http://cinta-echo.github.io/</id>
+  
+  <author>
+    <name>cinta-echo</name>
+    <email>feiweiwei9497@163.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Cinta 的个人专栏</title>
+    <link href="http://cinta-echo.github.io/2020/03/29/hello-world/"/>
+    <id>http://cinta-echo.github.io/2020/03/29/hello-world/</id>
+    <published>2020-03-29T01:47:28.133Z</published>
+    <updated>2020-03-29T02:26:04.643Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
